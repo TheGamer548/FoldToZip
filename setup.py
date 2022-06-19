@@ -6,13 +6,13 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="foldtozip",
-    version="0.0.1",
+    version="0.0.2",
     author="Coder100",
     author_email="jacobhason86@gmail.coù",
     description="No description",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/TheGamer548/Pikkit",
+    url="https://github.com/TheGamer548/FoldToZipt",
     project_urls={
         "Source-code": "https://github.com/TheGamer548/Pikkit",
     },

@@ -6,6 +6,7 @@ import tkinter as TK
 import socket
 import select
 import sys
+import turtle
 '''Replace "thread" with "_thread" for python 3'''
 from atexit import register
 import getpass
